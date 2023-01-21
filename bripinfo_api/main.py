@@ -4,11 +4,12 @@ import re
 import requests
 from fastapi import FastAPI, HTTPException
 
-from bripinfo_api import settings
+# from bripinfo_api import settings
 
 app = FastAPI()
 
-_remote_file = settings.CONFIG['registro_br']['main_file']
+# _remote_file = settings.CONFIG['registro_br']['main_file']
+_remote_file = 'https://ftp.registro.br/pub/numeracao/origin/nicbr-asn-blk-latest.txt'
 
 
 @app.get("/status")
