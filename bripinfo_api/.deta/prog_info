@@ -1,0 +1,1 @@
+{"id":"681ab87f-3ad8-4529-961f-4d573bb42b3c","space":49078,"runtime":"python3.9","name":"bripinfo_api","path":"bs82y8","project":"b0xjcecw","account":"144798365827","region":"us-east-1","deps":["fastapi==0.89.0","requests==2.28.1","uvicorn[standard]==0.20.0"],"envs":null,"public":true,"log_level":"off","cron":""}
