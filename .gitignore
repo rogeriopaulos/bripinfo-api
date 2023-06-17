@@ -135,3 +135,5 @@ dmypy.json
 # Project
 bripinfo/.files/*
 !bripinfo/.files/.gitkeep
+
+.space
