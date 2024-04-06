@@ -1,0 +1,6 @@
+fly.toml
+.envrc
+setup.cfg
+.pytest_cache/
+README.md
+tests/
